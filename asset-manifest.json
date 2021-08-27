@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/sdc-web/static/js/main.e96fac6f.chunk.js",
+    "main.js.map": "/sdc-web/static/js/main.e96fac6f.chunk.js.map",
+    "runtime-main.js": "/sdc-web/static/js/runtime-main.ebb03cda.js",
+    "runtime-main.js.map": "/sdc-web/static/js/runtime-main.ebb03cda.js.map",
+    "static/js/2.a44a7c13.chunk.js": "/sdc-web/static/js/2.a44a7c13.chunk.js",
+    "static/js/2.a44a7c13.chunk.js.map": "/sdc-web/static/js/2.a44a7c13.chunk.js.map",
+    "index.html": "/sdc-web/index.html",
+    "precache-manifest.b8f83083fac37b92fcc955999e28fb9a.js": "/sdc-web/precache-manifest.b8f83083fac37b92fcc955999e28fb9a.js",
+    "service-worker.js": "/sdc-web/service-worker.js",
+    "static/js/2.a44a7c13.chunk.js.LICENSE.txt": "/sdc-web/static/js/2.a44a7c13.chunk.js.LICENSE.txt",
+    "static/media/SocialDevelopmentCentre_Logo_WhiteOnBlack_1.png": "/sdc-web/static/media/SocialDevelopmentCentre_Logo_WhiteOnBlack_1.59c4667d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebb03cda.js",
+    "static/js/2.a44a7c13.chunk.js",
+    "static/js/main.e96fac6f.chunk.js"
+  ]
+}

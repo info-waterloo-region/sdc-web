@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import styled from 'styled-components';
 import ArrowForwardIosIcon from '@material-ui/icons/ArrowForwardIos';
-import ReactMarkdown from "react-markdown"
+import ReactMarkdown from 'react-markdown';
 
 const NodeIconSize = {
   width: 48,
@@ -93,7 +93,9 @@ export default class Card extends React.Component {
           }}
         >
           <Title>{this.props.title}</Title>
+
           <Description><ReactMarkdown source={this.props.description} /></Description>
+
           <div>{this.IconsExist(this.props.flowchart_icons)}</div>
         </div>
         {onClick && (

@@ -93,9 +93,7 @@ export default class Card extends React.Component {
           }}
         >
           <Title>{this.props.title}</Title>
-
           <Description><ReactMarkdown source={this.props.description} /></Description>
-
           <div>{this.IconsExist(this.props.flowchart_icons)}</div>
         </div>
         {onClick && (

@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d3f9516fa9a9c97dae9360afc0d90b05",
+    "revision": "0f86ec7fd94ebe9f5728e26e7aac75a7",
     "url": "/sdc-web/index.html"
   },
   {
-    "revision": "217fd22053daf222e7b0",
-    "url": "/sdc-web/static/js/2.a44a7c13.chunk.js"
+    "revision": "d3cc34646772ae43deed",
+    "url": "/sdc-web/static/js/2.4bd19b5c.chunk.js"
   },
   {
-    "revision": "ac9fac6c8e755a8efecd01981adb88e6",
-    "url": "/sdc-web/static/js/2.a44a7c13.chunk.js.LICENSE.txt"
+    "revision": "4e69539d1faff6fa5588df6b667b4a3f",
+    "url": "/sdc-web/static/js/2.4bd19b5c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "189f840ab7ba21ec979a",
-    "url": "/sdc-web/static/js/main.e96fac6f.chunk.js"
+    "revision": "bd39acf71bd9b3f24f76",
+    "url": "/sdc-web/static/js/main.0ab5f5a1.chunk.js"
   },
   {
     "revision": "952d9b198878c968b9b4",

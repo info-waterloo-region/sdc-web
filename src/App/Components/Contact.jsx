@@ -39,43 +39,51 @@ const ContactGroup = styled.div`
   }
 `;
 
-export default function() {
+export default function () {
   return (
     <ContactContainer>
       <ContactGroup>
+        <ContactRow>
+          <ContactItem>Bylaw Cambridge</ContactItem>
+          <ContactItemNumber>519-623-1340 x 7907</ContactItemNumber>
+        </ContactRow>
         <ContactRow>
           <ContactItem>Bylaw Kitchener</ContactItem>
           <ContactItemNumber>519-741-2345</ContactItemNumber>
         </ContactRow>
         <ContactRow>
           <ContactItem>Bylaw Waterloo</ContactItem>
-          <ContactItemNumber>519-889-1550</ContactItemNumber>
-        </ContactRow>
-        <ContactRow>
-          <ContactItem>Fire Prevention</ContactItem>
-          <ContactItemNumber>519-889-1550</ContactItemNumber>
+          <ContactItemNumber>519-747-8785</ContactItemNumber>
         </ContactRow>
         <ContactRow>
           <ContactItem>Police (Emergency)</ContactItem>
           <ContactItemNumber>911</ContactItemNumber>
         </ContactRow>
+        <ContactRow>
+          <ContactItem>Police (Non-Emergency)</ContactItem>
+          <ContactItemNumber>519-570-9777</ContactItemNumber>
+        </ContactRow>
       </ContactGroup>
       <ContactGroup>
         <ContactRow>
-          <ContactItem>Police (Non-Emergency)</ContactItem>
-          <ContactItemNumber>519-653-7700</ContactItemNumber>
-        </ContactRow>
-        <ContactRow>
-          <ContactItem>Waterloo Crime Stoppers</ContactItem>
-          <ContactItemNumber>1-800-22-8477</ContactItemNumber>
-        </ContactRow>
-        <ContactRow>
-          <ContactItem>WR Community Legal Services</ContactItem>
+          <ContactItem>Community Legal Services</ContactItem>
           <ContactItemNumber>519-743-0254</ContactItemNumber>
         </ContactRow>
         <ContactRow>
-          <ContactItem>R.E.N.T</ContactItem>
-          <ContactItemNumber>519-579-3800</ContactItemNumber>
+          <ContactItem>Fire Prevention Cambridge</ContactItem>
+          <ContactItemNumber>519-621-6001</ContactItemNumber>
+        </ContactRow>
+        <ContactRow>
+          <ContactItem>Fire Prevention Kitchener</ContactItem>
+          <ContactItemNumber>519-741-2495</ContactItemNumber>
+        </ContactRow>
+        <ContactRow>
+          <ContactItem>Fire Services Waterloo</ContactItem>
+          <ContactItemNumber>519-884-2121 x 23306</ContactItemNumber>
+        </ContactRow>
+        <ContactRow>
+          <ContactItem>Waterloo Crime Stoppers</ContactItem>
+          <ContactItemNumber>1-800-222-8477</ContactItemNumber>
         </ContactRow>
       </ContactGroup>
     </ContactContainer>

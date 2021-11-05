@@ -1,7 +1,7 @@
 {
   "name": "sdc",
   "version": "0.1.0",
-  "homepage": "http://info-waterloo-region.github.io/sdc-web",
+  "homepage": "http://info-waterloo-region.github.io/navigate",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.9.4",
